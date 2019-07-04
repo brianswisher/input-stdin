@@ -1,15 +1,5 @@
-# input-stdin
-A stdin CLI utility for NodeJS
-
-### install
-```bash
-npm i input-stdin --save
-```
-
-### usage
-```javascript
 ((require) => {
-  const readLine = require('input-stdin')(`
+  const readLine = require('./index.js')(`
 1
 2
 `)
@@ -24,4 +14,3 @@ npm i input-stdin --save
   console.log(test(result, 3))
   console.log(test(result, 4))
 })(require);
-```

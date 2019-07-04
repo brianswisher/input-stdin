@@ -1,0 +1,15 @@
+{
+  "name": "input-stdin",
+  "version": "1.0.0",
+  "description": "A stdin CLI utility for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Brian Swisher",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianswisher/input-stdin.git"
+  },
+  "license": "MIT"
+}
