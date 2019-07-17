@@ -1,4 +1,4 @@
-# input-stdin
+# input-stdin [t]
 A stdin CLI utility for NodeJS
 
 ### install
